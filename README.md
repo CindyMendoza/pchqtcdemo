@@ -16,3 +16,6 @@ Al igual que Linux, Git es  software libre.
 
 # Roberto Pineda
 ## **+51916730940**
+
+# Cindy Mendoza
+## 940246981
